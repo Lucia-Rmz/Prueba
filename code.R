@@ -1,2 +1,3 @@
-x= rnorm(100,0,1)
+x= rnorm(100,10,1)
 plot(x)
+
